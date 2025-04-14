@@ -24,11 +24,16 @@ Y si encuentras valioso este contenido, **¡te agradecería enormemente que lo c
 
 Además de esta guía, comparto constantemente más contenido, tutoriales y recursos sobre programación y tecnología en mis redes. ¡Me encantaría conectar contigo y saber de tus progresos!
 
-1-  🎬 **Youtube:** [https://www.youtube.com/channel/UCSob-3E5z4IHtMF5B4bN-FA](https://www.youtube.com/channel/UCSob-3E5z4IHtMF5B4bN-FA)
-2-  👨‍💼 **LinkedIn:** [https://www.linkedin.com/in/juancitope%C3%B1a/](https://www.linkedin.com/in/juancitope%C3%B1a/)
-3-  📷 **Instagram:** [https://www.instagram.com/juancito.pena.v/](https://www.instagram.com/juancito.pena.v/)
-4-  📑 **Facebook:** [https://www.facebook.com/juancito.p.v](https://www.facebook.com/juancito.p.v)
-5-  🐦 **Twitter:** [https://twitter.com/JuancitoPenaV](https://twitter.com/JuancitoPenaV)
+1. 🎬 **YouTube**: [@JuancitoPenaV](https://www.youtube.com/channel/UCSob-3E5z4IHtMF5B4bN-FA)
+
+2. 👨‍💼 **LinkedIn**: [Juancito Peña](https://www.linkedin.com/in/juancitope%C3%B1a/)
+
+3. 📷 **Instagram**: [@juancito.pena.v](https://www.instagram.com/juancito.pena.v/)
+
+4. 📑 **Facebook**: [Juancito Peña V](https://www.facebook.com/juancito.p.v)
+
+5. 🐦 **Twitter**: [@JuancitoPenaV](https://twitter.com/JuancitoPenaV)
+
 
 ✔ No olvides suscribirte a mi canal donde estaré subiendo este video para que no te lo pierdas, compartir el contenido que ya tengo, darle like y dejar tus comentarios. ¡Tu apoyo es muy importante para mí y me ayudas a seguir creando contenido! 💚
 
