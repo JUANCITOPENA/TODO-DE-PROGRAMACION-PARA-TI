@@ -55,14 +55,16 @@ La programación es el proceso de diseñar, escribir, probar y mantener el códi
 *   **Creación:** Permite construir herramientas, aplicaciones, sitios web y más.
 *   **Oportunidades Profesionales:** Alta demanda en el mercado laboral con salarios competitivos.
 
-### 🧠 Mentalidad Clave: Análisis y Resolución de Problemas
+### 🧠 Mentalidad Clave: Análisis y Resolución de Problemas  
 
-Antes de escribir una sola línea de código, un buen programador debe:
-1.  **Entender el Problema:** Definir claramente qué se necesita resolver.
-2.  **Analizar Requisitos:** Identificar las necesidades específicas del usuario o del proyecto.
-3.  **Planificar la Solución:** Diseñar la lógica (algoritmo) y la estructura (arquitectura) del software.
-4.  **Descomponer:** Dividir problemas complejos en partes más pequeñas y manejables.
+Antes de escribir una sola línea de código, un buen programador debe:  
 
+1- **Entender el Problema:** Definir claramente qué se necesita resolver.  
+2- **Analizar Requisitos:** Identificar las necesidades específicas del usuario o del proyecto.  
+3- **Planificar la Solución:** Diseñar la lógica (algoritmo) y la estructura (arquitectura) del software.  
+4- **Descomponer:** Dividir problemas complejos en partes más pequeñas y manejables.  
+5- **Entregable:** Definir los artefactos finales, asegurando que cumplen con los requisitos y estándares establecidos.  
+6- **Despliegue:** Implementar la solución en el entorno de producción, garantizando su correcto funcionamiento y disponibilidad para los usuarios.  
 ---
 
 ## 🏗️ 2. Fundamentos Esenciales de la Programación
