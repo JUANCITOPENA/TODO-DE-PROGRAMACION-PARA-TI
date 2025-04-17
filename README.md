@@ -46,8 +46,18 @@ Además de esta guía, comparto constantemente más contenido, tutoriales y recu
 
 ## 🔹 1. Introducción a la Programación
 
-La programación es el proceso de diseñar, escribir, probar y mantener el código fuente de programas informáticos. En esencia, es **darle instrucciones a una computadora** para que realice tareas específicas, resuelva problemas o automatice procesos.
+# 🖥️ ¿Qué es la Programación? 🤔  
 
+La programación es el proceso de diseñar, escribir, probar y mantener el código fuente de programas informáticos. En esencia, es **darle instrucciones a una computadora** para que realice tareas específicas, resuelva problemas o automatice procesos.  
+
+## 📌 La Programación como Arte y Ciencia  
+Es la combinación de lógica y creatividad para **comunicarnos con las computadoras**. Se basa en escribir un conjunto de instrucciones precisas y estructuradas (código) que una máquina puede interpretar y ejecutar, permitiendo así la creación de soluciones innovadoras.  
+
+### 🔍 Definiciones de Autores Relevantes  
+- **Donald Knuth:** "La programación es el arte de organizar la complejidad, estructurando algoritmos y datos de manera eficiente para resolver problemas computacionales".  
+- **Niklaus Wirth:** "La programación es el proceso de diseñar algoritmos y expresarlos en un lenguaje de programación para que una computadora los ejecute".  
+
+En definitiva, la programación no es solo escribir código: **es la herramienta que transforma ideas en soluciones tecnológicas**. 🚀  
 ### 🤔 ¿Por Qué Aprender a Programar?
 
 *   **Automatización:** Simplifica tareas repetitivas.
